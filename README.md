@@ -101,8 +101,8 @@ This pipeline simulates a simplified ETL (Extract, Transform, Load) workflow use
 - Top merchants generated significant revenue:
   - Merchant 1000: ₦7,090,981.54  
   - Merchant 1007: ₦6,724,288.59  
-  - Merchant 10001: ₦6,621,814.04  
-  - Merchant 10002: ₦6,577,759.54  
+  - Merchant 1001: ₦6,621,814.04  
+  - Merchant 1002: ₦6,577,759.54  
   - Merchant 1006: ₦6,488,619.78  
 
   → Suggests a small number of merchants drive a large portion of transaction value  
