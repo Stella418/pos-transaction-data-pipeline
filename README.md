@@ -74,6 +74,26 @@ This pipeline simulates a simplified ETL (Extract, Transform, Load) workflow use
 
 ---
 
+## 📸 Screenshots
+
+### 1. Raw vs Cleaned Data
+
+This shows the transformation from the raw dataset (with duplicate IDs, inconsistent status values, and formatting issues) to the cleaned dataset with standardized fields and validated entries.
+
+---
+
+### 2. Data Quality Checks
+
+This demonstrates validation queries used to ensure data integrity, including checks for duplicate transaction IDs, invalid status values, and missing critical fields. All checks returned valid results.
+
+---
+
+### 3. Analysis Queries and Results
+
+This shows SQL queries used to analyze the dataset, including transaction counts, status distribution, and top-performing merchants.
+
+---
+
 ## 📈 Key Insights
 
 - **Total transactions:** 2,698  
